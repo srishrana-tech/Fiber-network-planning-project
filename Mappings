@@ -1,0 +1,28 @@
+ee tis is the mapping for the conversion
+ 
+1.)Fiber#/Splitter#-----> consdier FDT Tray c=olumn
+ 
+ 
+2) 4 way splitter ---> FDT Splitter A
+3)Splitter port# ----> O/P port
+ 
+(1:4 Splitter O/P port)=====(4way splitter + Splitter port)  column aare combined in type 2 format
+ 
+ 
+4) To cable leg--->Outgoing cable leg
+ 
+5) Tube -----> Tube
+ 
+6) Fibe rin tube ---> Fiber in tube
+7) Fiber incable ----> actually there is a formula for this mapping
+ 
+12*(tube-1)+fiber in tube
+ 
+ 
+Enclosure -----> (To FAT)column
+ 
+8) Live -----> if state column is slpice  then the live columnis yes
+ 
+ 
+see these are the 8 ampping please consider this for the conversion from type 2 to type 1
+ 
